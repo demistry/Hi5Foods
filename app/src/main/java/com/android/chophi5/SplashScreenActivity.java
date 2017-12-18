@@ -7,7 +7,7 @@ import android.os.Bundle;
 
 public class SplashScreenActivity extends AppCompatActivity {
 
-    private static  final int SPLASH_DISPLAY_LENGTH = 3000;
+    private static  final int SPLASH_DISPLAY_LENGTH = 3500;
 
     // Declare the Handler as a member variable
     private Handler mHandler = new Handler();
